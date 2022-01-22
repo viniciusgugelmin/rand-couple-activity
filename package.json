@@ -1,0 +1,9 @@
+{
+  "name": "rand-couple-activity",
+  "version": "1.0.0",
+  "description": "A single page to run in desktop/mobile (offline) and get a random couple activity",
+  "main": "index.html",
+  "author": "Vinicius <vinigugelmin@hotmail.com>",
+  "license": "MIT",
+  "private": false
+}
